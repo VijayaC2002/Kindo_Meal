@@ -1,13 +1,10 @@
 Welcome To Project👋
 
 # Project Name - Kindmeal.my
-Clone of Kindmeal.my (https://www.kindmeal.my/)
 
-<a href="#"><img width="30%" height="auto" src="https://camo.githubusercontent.com/356e03fa92213fc2da40d28b9cc64ae191c16cc81d518ad3b683aa42db828ee8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a79745273586e6a5549646276796379655a5a673668412e706e67" height="175px"/></a>
+##Project Holder
 
-##Project Holders
-
-1. Sankalp Patel
+1. Vijaya Chimale
 
 
 ## About
